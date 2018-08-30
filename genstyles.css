@@ -1,0 +1,111 @@
+#compName{
+    color: #d9534f;
+    font-size: larger;
+    background-color: #0f0f0f;
+    text-align: center;
+}
+
+
+.navbar{
+    background: #5E4485;
+}
+
+#containerTwo{
+    background-color: #d9534f;
+}
+
+#homeContact{
+    text-align: center;
+}
+.linkHome{
+    color: #d9534f;
+    font-size: larger;
+    padding: 5%;
+}
+
+#formCntPg{
+    background-color: #4cae4c;
+}
+#jumTitle{
+    font-family: Algerian;
+    color: #5E4485;
+    padding-top: 2%;
+    text-align: center;
+}
+
+.carousel-caption{
+    top: 35%;
+}
+
+.btn{
+    color: #67b168;
+    padding: 2%;
+    background: #5E4485;
+    font-size: 16px;
+    border: 2px solid #FFF;
+}
+
+.containerText{
+    text-align: center;
+    color: #1b6d85;
+}
+
+.serviImg{
+    top: 5%;
+    text-align: center;
+}
+
+.servParHome{
+    text-align: justify;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.headServ{
+    text-align: center;
+    font-size: 200%;
+    color: #2e6da4;
+    font-style: oblique;
+    padding: 3%;
+}
+
+.ourClientHd{
+    padding-top: 5%;
+    font-family: "Blackoak Std";
+}
+.hmClientPar{
+    padding: 2%;
+    font-family: "Times New Roman";
+    font-size: larger;
+}
+
+#hmDeco{
+    background-color: #3c3c3c;
+}
+
+.hmDecPar{
+    color: #2aabd2;
+    text-align: center;
+}
+
+.servParHomeCent{
+    padding-top: 20%;
+    padding-left: 10%;
+    text-align: justify;
+}
+
+#footer{
+    background-color: #5e5e5e;
+}
+
+.footCnt{
+    text-align: center;
+}
+.copyRyt{
+    text-align: center;
+    padding-top: 1%;
+}
+
+#copyRyt{
+    background-color: #4cae4c;
+}
